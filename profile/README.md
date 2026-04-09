@@ -8,4 +8,4 @@ We're **Nomox** — a Prague-based startup building a semantic layer that unifie
 
 🌐 **Learn more** — [get-nomox.com](https://get-nomox.com)
 
-📬 **Get in touch** — matej@get-nomox.com
+📬 **Get in touch** — team@get-nomox.com
