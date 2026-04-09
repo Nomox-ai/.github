@@ -1,11 +1,17 @@
-## Hi there 👋
+# Nomox
 
-We're **Nomox** — a Prague-based startup building a semantic layer that unifies fragmented company data so anyone can query it in plain English.
+The semantic layer that connects fragmented company data - so anyone can query it in plain English, without a warehouse migration and without waiting for an analyst.
 
-🙋‍♀️ **What we do** — We connect to your existing databases, spreadsheets, and tools and build a shared semantic layer on top. No migration, no schema redesign. The data stays where it is — Nomox just makes it behave as one.
+## What we're building
 
-👩‍💻 **How it works** — Nomox exposes unified data through an MCP server you can plug directly into your AI agents and tools.
+- **Semantic Catalog** - auto-maps relationships across data sources and enriches every field with business meaning, without anyone writing documentation by hand
+- **BI Platform** - plain-English queries and ad-hoc answers across all connected sources, for non-technical users
+- **MCP Server** - exposes the unified data layer inside AI tools like Claude, so analysts can query company data where they already work
 
-🌐 **Learn more** — [get-nomox.com](https://get-nomox.com)
+## Who we are
 
-📬 **Get in touch** — team@get-nomox.com
+CS graduates from Charles University in Prague - data engineers and ML researchers with academic roots in semantic web and ontology engineering.
+
+🌐 [get-nomox.com](https://get-nomox.com)
+
+📬 team@get-nomox.com
